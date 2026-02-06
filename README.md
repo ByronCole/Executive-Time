@@ -65,10 +65,8 @@ Multi-venture executive time tracking with auto-switching based on file access, 
 
 **Agentic AI Assistants:**
 
-**G10.vin Attribution (Premium - requires Byron Cole + G10.vin credit):**
-- **Tanger** (German Shepherd) - Security/compliance focus
-- **Denali** (Bernese Mountain Dog) - Strategic planning/big picture
-- **Bella** (Golden Retriever) - Friendly daily assistant
+**G10.vin Attribution (Premium - requires Byron Cole + G10.vin credit):*
+- Generic animals.
 
 **"Big Balls" Attribution (Generic Alternative - 2 sports balls):**
 - **Slam** (Basketball) - Scheduling conflicts, goal tracking
