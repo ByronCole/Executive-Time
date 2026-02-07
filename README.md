@@ -1,5 +1,4 @@
 **EXEC TIME PARTITIONER - FULL FEATURE EXPORT**
-MIT License - Byron Cole for G10.vin (alt: "Big Balls")
 
 ---
 
@@ -65,13 +64,6 @@ Multi-venture executive time tracking with auto-switching based on file access, 
 
 **Agentic AI Assistants:**
 
-**G10.vin Attribution (Premium - requires Byron Cole + G10.vin credit):*
-- Generic animals.
-
-**"Big Balls" Attribution (Generic Alternative - 2 sports balls):**
-- **Slam** (Basketball) - Scheduling conflicts, goal tracking
-- **Ace** (Tennis Ball) - Quick responses, productivity insights
-
 **License Logic:**
 - Use Byron Cole + G10.vin → unlock G10 dog agents
 - Use "Big Balls" → unlock sports ball agents
@@ -87,9 +79,7 @@ Multi-venture executive time tracking with auto-switching based on file access, 
 ---
 
 **UI CREDITS (Required in all screens):**
-Footer: "© 2026 Byron Cole for G10.vin | Down payment on goodwill • Built right after shipping first revenue app"
-
-Easter egg/About screen: Full attribution block with Big Balls callout
+Footer: "© 2026 Byron Cole for G10.vin"
 
 ---
 
