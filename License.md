@@ -1,0 +1,1 @@
+This code is for demonstration and review purposes only. No rights are granted for reproduction, distribution, or commercial use. If you are an employer or executive interested in utilizing this architecture, contact Byron Cole for a commercial license agreement.
