@@ -76,10 +76,14 @@ Multi-venture executive time tracking with auto-switching based on file access, 
 - Desktop-mobile sync via cloud DB
 - Logs include: time, device, org(s), GPS, activity signal, state changes
 
+**License**
+- Proprietary Architecture 
+- Review Copy. 
+- No License Granted for Execution or Derivation.
+
 ---
 
-**UI CREDITS (Required in all screens):**
-Footer: "© 2026 Byron Cole for G10.vin"
+"© 2026 Byron Cole for G10.vin"
 
 ---
 
